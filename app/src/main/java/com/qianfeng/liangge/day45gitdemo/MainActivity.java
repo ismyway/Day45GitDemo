@@ -12,6 +12,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    /**
+     *
+     * @param view
+     */
     public void btnClick(View view){
 
     }
